@@ -52,8 +52,9 @@ We have included the jsonl in the project, and the fig could be download [here](
 | 8  | 3B+SFT                    | 75.45| 32.02 | 63.32   | 53.6      | 589      |
 | 9  | 3B+RL                     | 76.46| 36.28 | 66.41   | 55.3      | 609      |
 | 10 | 3B+Curr-RL                | 77.36| 36.74 | 68.99   | 56.3      | 594      |
-| 11 | 3B_Curr-ReFT              | 80.09| 46.30 | 77.38   | 60.8      | 703      |
+| 11 | 3B_Curr-ReFT              | 78.96| 39.45 | 69.97   | 57.5      | 636     |
 | 12 | 7B-Curr-ReFT              | 83.16| 49.95 | 80.15   | 65.8      | 727      |
+
 ```
 
 
